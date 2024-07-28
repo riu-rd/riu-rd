@@ -5,17 +5,17 @@
 
 - 🔭 I’m currently working on **TM247 and Ratio**
 
-- 🌱 I’m currently learning **Next.js, React Native, Transformer Architecture, GenAI**
+- 🌱 I’m currently learning **Next.js, React Native, Transformer Architecture, GenAI, LangChain, RAG**
 
 - 👯 I’m looking to collaborate on **more Full Stack Development to AI Engineering Projects**
 
 - 👨‍💻 All of my projects are available at [https://darius-ardales.web.app/](https://darius-ardales.web.app/)
 
-- 💬 Ask me about **React, Tensorflow, Full Stack Development, AI**
+- 💬 Ask me about **React, Next.js, Full Stack Development, AI**
 
 - 📫 How to reach me **darius.vincent5@gmail.com**
 
-- ⚡ Fun fact **I'm a good swimmer**
+- ⚡ Fun fact **I like making all of my apps responsive**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
