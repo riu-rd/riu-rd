@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Riu</h1>
-<h3 align="center">A passionate Software Engineer from the Philippines</h3>
+<h3 align="center">A Computer Science Student at De La Salle University</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riu-rd" alt="riu-rd" /></a> </p>
 
-- 🔭 I’m currently working on **TM247 and Ratio**
+- 🔭 I’m currently working on my **Transformer thesis and startup**
 
-- 🌱 I’m currently learning **Next.js, React Native, Transformer Architecture, GenAI, LangChain, RAG**
+- 🌱 I’m currently learning **Next.js, React Native, Transformer Architecture, GenAI, RAG, and Godot**
 
-- 👯 I’m looking to collaborate on **more Full Stack Development to AI Engineering Projects**
+- 👯 I’m looking to collaborate on **more Full Stack Development to ML Engineering Projects**
 
 - 👨‍💻 All of my projects are available at [https://darius-ardales.web.app/](https://darius-ardales.web.app/)
 
-- 💬 Ask me about **React, Next.js, Full Stack Development, AI**
+- 💬 Ask me about **React, Next.js, Full Stack Development, AI/ML**
 
 - 📫 How to reach me **darius.vincent5@gmail.com**
 
