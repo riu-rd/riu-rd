@@ -3,19 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riu-rd" alt="riu-rd" /></a> </p>
 
-- 🔭 I’m currently working on my **Transformer thesis and startup**
+- 🔭 I’m currently working on my **AI Thesis, FinTech Startup, and LeetCode Practice**
 
-- 🌱 I’m currently learning **Next.js, React Native, Transformer Architecture, GenAI, RAG, and Godot**
+- 🌱 I’m currently learning **AI Agents, RAG, Gen AI, Deep Learning, Transformers, and being an Effective Communicator**
 
-- 👯 I’m looking to collaborate on **more Full Stack Development to ML Engineering Projects**
+- 👯 I’m looking to collaborate on **ML Engineering Projects to Software Development**
 
-- 👨‍💻 All of my projects are available at [https://darius-ardales.web.app/](https://darius-ardales.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://darius-ardales.web.app/)
 
-- 💬 Ask me about **React, Next.js, Full Stack Development, AI/ML**
+- 📫 How to reach me: **darius.vincent5@gmail.com**
 
-- 📫 How to reach me **darius.vincent5@gmail.com**
-
-- ⚡ Fun fact **I like making all of my apps responsive**
+- ⚡ Fun fact: **I have read the paper `Attention Is All You Need` a whole lot, it seems I'm memorizing it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
