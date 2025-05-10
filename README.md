@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riu-rd" alt="riu-rd" /></a> </p>
 
-- 🔭 I’m currently working on my **AI Thesis, FinTech Startup, and LeetCode Practice**
+- 🔭 I’m currently working on my **AI Thesis, FinTech Startup, and AI Internship**
 
 - 🌱 I’m currently learning **AI Agents, RAG, Gen AI, Deep Learning, Transformers, and being an Effective Communicator**
 
-- 👯 I’m looking to collaborate on **ML Engineering Projects to Software Development**
+- 👯 I’m looking to collaborate on **AI Engineering Projects to Software Development**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://darius-ardales.web.app/)
 
