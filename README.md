@@ -54,9 +54,10 @@
 ---
 
 ### 💼 Professional Experience
-<!-- | **Data Scientist** | UnionBank of the Philippines | Oct 2025 - Present | -->
+
 | Role | Company | Period |
 |------|---------|--------|
+| **Data Scientist** | UnionBank of the Philippines | Oct 2025 - Present |
 | **Data Science & AI Intern** | Bank of the Philippine Islands (BPI) | May 2025 - Aug 2025 |
 | **Freelance AI Evaluator** | Outlier (Meta RLHF) | Aug 2024 - May 2025 |
 | **Software Engineer Intern** | Thinking Machines Data Science | Jun 2024 - Aug 2024 |
