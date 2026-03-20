@@ -30,7 +30,7 @@
 - 🌱 Learning **Google ADK, LangChain, Agentic RAG Systems, and Advanced Deep Learning**
 - 👯 Open to collaborate on **AI Engineering Projects, Gen AI Applications, and Data Science Solutions**
 - 📫 Reach me at **darius.vincent5@gmail.com**
-- ⚡ Fun fact: **I've read "Attention Is All You Need" so many times, I could probably recite it from memory**
+- ⚡ Fun fact: **I'm a good swimmer and I like to party**
 
 ---
 
@@ -61,7 +61,7 @@
 | **Data Scientist** | UnionBank of the Philippines | Nov 2025 - Present |
 | **Co-Founder** | Quasar | Aug 2025 - Present |
 | **Data Science & AI Intern** | Bank of the Philippine Islands (BPI) | May 2025 - Aug 2025 |
-| **Freelance AI Evaluator** | Outlier (Meta RLHF) | Aug 2024 - May 2025 |
+| **Freelance AI Evaluator** | Outlier (Scale AI) | Aug 2024 - May 2025 |
 | **Software Engineer Intern** | Thinking Machines Data Science | Jun 2024 - Aug 2024 |
 
 ---
