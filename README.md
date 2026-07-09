@@ -10,7 +10,7 @@
   <a href="mailto:darius.vincent5@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://darius-ardales.web.app/" target="_blank">
+  <a href="https://dariusardales.me/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
@@ -25,12 +25,11 @@
 ### 🚀 About Me
 
 <!-- - 🔭 Currently working as **Data Scientist at UnionBank of the Philippines** -->
-- 🏆 **Winner** of Maya Big 3 Startup Showdown & BPI DATA Wave 2025
+- 🏆 **Winner** of BPI DATA Wave 2025 & Maya Big 3 Startup Showdown
 - 📚 Published researcher in **IEEE** and **CSP** on AI/ML topics
-- 🌱 Learning **Google ADK, LangChain, Agentic RAG Systems, and Advanced Deep Learning**
+- 🌱 Learning **Survival Analysis, Time-Series Forecasting, Agentic RAG Systems, and Advanced Deep Learning**
 - 👯 Open to collaborate on **AI Engineering Projects, Gen AI Applications, and Data Science Solutions**
 - 📫 Reach me at **darius.vincent5@gmail.com**
-- ⚡ Fun fact: **I'm a good swimmer and I like to party**
 
 ---
 
@@ -59,7 +58,7 @@
 | Role | Company | Period |
 |------|---------|--------|
 | **Data Scientist** | UnionBank of the Philippines | Nov 2025 - Present |
-| **Co-Founder** | Quasar | Aug 2025 - Present |
+| **Co-Founder** | Quasar | Apr 2026 - Present |
 | **Data Science & AI Intern** | Bank of the Philippine Islands (BPI) | May 2025 - Aug 2025 |
 | **Freelance AI Evaluator** | Outlier (Scale AI) | Aug 2024 - May 2025 |
 | **Software Engineer Intern** | Thinking Machines Data Science | Jun 2024 - Aug 2024 |
